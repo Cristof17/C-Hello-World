@@ -2,7 +2,7 @@
 using namespace std;
 
 /**
- @author Cristofor Rotsching
+ @author cristof 
  */
 int main() {
     string initialString = "Hello world";
